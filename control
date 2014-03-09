@@ -1,0 +1,12 @@
+Package: com.rob311.firewallip7flipswitch
+Name: Firewall iP7 Flipswitch
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A Flipswitch for Firewall iP7
+Author: rob311 <rob@rob311.com>
+Maintainer: rob311 <rob@rob311.com>
+Section: Addons (Flipswitch)
+Homepage: http://cydia.rob311.com/
+Depiction: http://cydia.rob311.com/tweaks/firewallip7flipswitch/depiction.php
+Icon: http://cydia.rob311.com/tweaks/firewallip7flipswitch/firewallip7flipswitch@2x.png
